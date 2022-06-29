@@ -71,6 +71,12 @@ __This Text__ is strong
         return num1+num2
 ```
 
+```c++
+    int funcion(num1,num2){
+        return num1+num2; // c++
+    }
+```
+
 
 <!-- Task Lists -->
 * [x] done Text
