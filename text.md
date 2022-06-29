@@ -61,13 +61,13 @@ __This Text__ is strong
 
 ```
 ``` javascript
-     function add (num1, num2){
+     function add (num1, num2){ // javascript 
         return num1 + num2;
      }
 ```
 
 ``` python 
-    def add (num1, num2)
+    def add (num1, num2)    #python
         return num1+num2
 ```
 
