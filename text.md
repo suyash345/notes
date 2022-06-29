@@ -44,4 +44,34 @@ __This Text__ is strong
 
 
 <!-- Inline code block-->
-<p> This is a paragph </p>
+`<p> This is a paragph </p>`
+
+<!-- Images copy image address -->
+![logo](https://gamerangelsblog.files.wordpress.com/2015/11/the_legend_of_zelda.jpg)
+
+<!-- github markdowns-->
+
+<!--code blocks -->
+
+```
+    npm start 
+    npm yto
+    sdada
+
+
+```
+``` javascript
+     function add (num1, num2){
+        return num1 + num2;
+     }
+```
+
+``` python 
+    def add (num1, num2)
+        return num1+num2
+```
+
+
+<!-- Task Lists -->
+* [x] done Text
+* []  undone Text
